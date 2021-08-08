@@ -41,6 +41,8 @@ Implemented Software:
 
 ##### build and Run
 
+CMD> Python Main.py
+
 ![image](https://user-images.githubusercontent.com/60839928/128632231-0c6928df-ff85-4f74-8cfa-996b9fdebbfc.png)
 
 ### Output/Test.
