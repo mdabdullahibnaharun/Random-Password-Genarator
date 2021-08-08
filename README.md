@@ -56,5 +56,6 @@ This was a great experience doing this mini project. With these steps, I have su
 Thank You. 😊
 
 
-Random Password generator © Md. Abdullah Ibna Harun 
+
+
 ©2021 Md. Abdullah Ibna Harun. All Rights Reserved.
